@@ -1,0 +1,6 @@
+{
+  "name": "SKB Management System - ระบบทะเบียนคุมลูกหนี้ รพ.สังขละบุรี",
+  "description": "ระบบสารสนเทศบริหารจัดการทะเบียนคุมลูกหนี้ทางการแพทย์ 52 สิทธิ์ โรงพยาบาลสังขละบุรี จังหวัดกาญจนบุรี",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
